@@ -1,0 +1,2 @@
+C:\Users\kosenko.OLVS\Desktop\IPS_lab1_task1_2\x64\Debug\IPS_lab1_task1_2.exe
+C:\Users\kosenko.OLVS\Desktop\IPS_lab1_task1_2\x64\Debug\IPS_lab1_task1_2.pdb

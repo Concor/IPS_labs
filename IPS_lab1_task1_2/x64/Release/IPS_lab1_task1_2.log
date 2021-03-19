@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\Kosenko\!Учеба\IPS_labs\IPS_lab1_task1_2\main.cpp(58,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\Kosenko\!Учеба\IPS_labs\IPS_lab1_task1_2\main.cpp(72,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 81 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  IPS_lab1_task1_2.vcxproj -> E:\Kosenko\!Учеба\IPS_labs\IPS_lab1_task1_2\x64\Release\IPS_lab1_task1_2.exe

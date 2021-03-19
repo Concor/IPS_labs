@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kosenko.OLVS\Desktop\IPS_lab1_task1_2\main.cpp(58,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\kosenko.OLVS\Desktop\IPS_lab1_task1_2\main.cpp(72,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  IPS_lab1_task1_2.vcxproj -> C:\Users\kosenko.OLVS\Desktop\IPS_lab1_task1_2\x64\Debug\IPS_lab1_task1_2.exe
