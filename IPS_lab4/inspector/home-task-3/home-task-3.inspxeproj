@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <connectionOption></connectionOption>
+ <rdmgr>
+  <timestamp type="u64_t">1622803163</timestamp>
+  <hostname>DESKTOP-VPodusenko</hostname>
+  <os>windows</os>
+  <product>Intel® Inspector 2021.2</product>
+  <buildNumber type="s32_t">605251</buildNumber>
+  <logicalCPUCount type="s32_t">8</logicalCPUCount>
+  <physicalCoreCount type="s32_t">4</physicalCoreCount>
+  <processorPackageCount type="s32_t">1</processorPackageCount>
+  <CPUFrequency type="s64_t">3392000000</CPUFrequency>
+  <CPUFamily type="s32_t">6</CPUFamily>
+  <CPUModel type="s32_t">42</CPUModel>
+  <CPUStepping type="s32_t">7</CPUStepping>
+  <CPUBrandName>        Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz</CPUBrandName>
+  <isa>avx</isa>
+ </rdmgr>
+ <contextValues type="bag"/>
+ <suppressions type="bag"/>
+ <All_Configurations-All_Platforms>
+  <searchDirs>
+   <searchCategory>
+    <category type="u8_t">1</category>
+    <searchDirectory>
+     <name>D:\Users\podus\Desktop\repos\Miet-Mag-Sem-2\Application-programming-in-IPS-system\home-task-3\variant-22\x64</name>
+     <recursive type="bool">false</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+   </searchCategory>
+   <searchCategory>
+    <category type="u8_t">2</category>
+    <searchDirectory>
+     <name>D:\Users\podus\Desktop\repos\Miet-Mag-Sem-2\Application-programming-in-IPS-system\home-task-3\variant-22\x64</name>
+     <recursive type="bool">false</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+   </searchCategory>
+   <searchCategory>
+    <category type="u8_t">3</category>
+    <searchDirectory>
+     <name>D:\Users\podus\Desktop\repos\Miet-Mag-Sem-2\Application-programming-in-IPS-system\home-task-3\variant-22</name>
+     <recursive type="bool">false</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+   </searchCategory>
+   <searchCategory>
+    <category type="u8_t">4</category>
+   </searchCategory>
+  </searchDirs>
+  <target_settings>
+   <selected_workload>
+    <localhost>launch</localhost>
+   </selected_workload>
+   <result_dir>
+    <localhost>D:\Users\podus\Desktop\repos\Miet-Mag-Sem-2\Application-programming-in-IPS-system\home-task-3\inspector\home-task-3</localhost>
+   </result_dir>
+   <workloads>
+    <localhost>
+     <launch type="pointer" type_id="dasID_cctrl2::ApplicationWorkload" ptr_type="dasID_cctrl2::IWorkload">
+      <workload>
+       <targetName>launch</targetName>
+       <use_app_dir_as_work_dir type="bool">true</use_app_dir_as_work_dir>
+       <launch_app.inherit_sys_environment type="bool">true</launch_app.inherit_sys_environment>
+       <launch.userappworkdir></launch.userappworkdir>
+       <result_directory.path>D:\Users\podus\Desktop\repos\Miet-Mag-Sem-2\Application-programming-in-IPS-system\home-task-3\inspector\home-task-3\r@@@{at}</result_directory.path>
+       <launch.userapppath>D:\Users\podus\Desktop\repos\Miet-Mag-Sem-2\Application-programming-in-IPS-system\home-task-3\variant-22\x64\Release\variant-22.exe</launch.userapppath>
+       <launch_app.app_to_launch>D:\Users\podus\Desktop\repos\Miet-Mag-Sem-2\Application-programming-in-IPS-system\home-task-3\variant-22\x64\Release\variant-22.exe</launch_app.app_to_launch>
+       <launch_app.working_folder>D:\Users\podus\Desktop\repos\Miet-Mag-Sem-2\Application-programming-in-IPS-system\home-task-3\variant-22\x64\Release</launch_app.working_folder>
+       <search_directories type="bag"/>
+       <context>
+        <contextValue>
+         <id>appdebug</id>
+         <value>off</value>
+        </contextValue>
+        <contextValue>
+         <id>custom_debugger</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>debug_this_problem</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>debug_using</id>
+         <value>gdb</value>
+        </contextValue>
+        <contextValue>
+         <id>heartbeat</id>
+         <value type="bool">true</value>
+        </contextValue>
+        <contextValue>
+         <id>modules_switch</id>
+         <value>knob.modules_switch.include</value>
+        </contextValue>
+        <contextValue>
+         <id>mrte_mode</id>
+         <value>auto</value>
+        </contextValue>
+        <contextValue>
+         <id>offload_target</id>
+         <value>default</value>
+        </contextValue>
+        <contextValue>
+         <id>process_for_analysis</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>suppressions</id>
+         <value>delete</value>
+        </contextValue>
+        <contextValue>
+         <id>targetType</id>
+         <value>launch</value>
+        </contextValue>
+        <contextValue>
+         <id>traceMpi</id>
+         <value type="bool">false</value>
+        </contextValue>
+       </context>
+      </workload>
+     </launch>
+    </localhost>
+   </workloads>
+  </target_settings>
+  <analysis_type_settings>
+   <selected_analysis_type_path>D:\Program Files (x86)\Intel\oneAPI\inspector\latest\config\analysis_type\ti3.cfg</selected_analysis_type_path>
+  </analysis_type_settings>
+ </All_Configurations-All_Platforms>
+</root>

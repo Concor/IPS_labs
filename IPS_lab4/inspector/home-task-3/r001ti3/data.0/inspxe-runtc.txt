@@ -1,0 +1,41 @@
+
+=== Start: [2021/06/04 14:05:00] === 
+Analysis started...
+Result file: D:\Users\podus\Desktop\repos\Miet-Mag-Sem-2\Application-programming-in-IPS-system\home-task-3\inspector\home-task-3\r001ti3\r001ti3.inspxe 
+Found target process d:\users\podus\desktop\repos\miet-mag-sem-2\application-programming-in-ips-system\home-task-3\variant-22\x64\release\variant-22.exe (PID = 19916). Analysis started... 
+Loaded module: d:\users\podus\desktop\repos\miet-mag-sem-2\application-programming-in-ips-system\home-task-3\variant-22\x64\release\variant-22.exe. 
+Loaded module: d:\windows\system32\kernelbase.dll. 
+Loaded module: d:\windows\system32\kernel32.dll. 
+Loaded module: d:\windows\system32\ntdll.dll. 
+Loaded module: d:\windows\system32\apphelp.dll. 
+Loaded module: d:\windows\system32\ucrtbase.dll. 
+Loaded module: d:\windows\system32\msvcp140.dll. 
+Loaded module: d:\windows\system32\vcruntime140.dll. 
+Loaded module: d:\users\podus\desktop\repos\miet-mag-sem-2\application-programming-in-ips-system\home-task-3\variant-22\x64\release\libiomp5md.dll. 
+Loaded module: d:\windows\system32\vcruntime140_1.dll. 
+Loaded module: d:\program files (x86)\intel\oneapi\inspector\latest\bin64\runtime\libittnotify.dll. 
+Loaded module: d:\program files (x86)\intel\oneapi\inspector\latest\bin64\pinjitprofiling.dll. 
+Warning: One or more threads in the application accessed the stack of another thread. This may indicate one or more bugs in your application. Setting the Inspector to detect data races on stack accesses and running another analysis may help you locate these and other bugs.
+Loaded module: d:\windows\system32\kernel.appcore.dll. 
+Loaded module: d:\windows\system32\msvcrt.dll. 
+Loaded module: d:\windows\system32\rpcrt4.dll. 
+Unloaded module: d:\users\podus\desktop\repos\miet-mag-sem-2\application-programming-in-ips-system\home-task-3\variant-22\x64\release\variant-22.exe. 
+Unloaded module: d:\windows\system32\kernelbase.dll. 
+Unloaded module: d:\windows\system32\kernel32.dll. 
+Unloaded module: d:\windows\system32\ntdll.dll. 
+Unloaded module: d:\windows\system32\apphelp.dll. 
+Unloaded module: d:\windows\system32\ucrtbase.dll. 
+Unloaded module: d:\windows\system32\msvcp140.dll. 
+Unloaded module: d:\windows\system32\vcruntime140.dll. 
+Unloaded module: d:\users\podus\desktop\repos\miet-mag-sem-2\application-programming-in-ips-system\home-task-3\variant-22\x64\release\libiomp5md.dll. 
+Unloaded module: d:\windows\system32\vcruntime140_1.dll. 
+Unloaded module: d:\program files (x86)\intel\oneapi\inspector\latest\bin64\runtime\libittnotify.dll. 
+Unloaded module: d:\program files (x86)\intel\oneapi\inspector\latest\bin64\pinjitprofiling.dll. 
+Unloaded module: d:\windows\system32\kernel.appcore.dll. 
+Unloaded module: d:\windows\system32\msvcrt.dll. 
+Unloaded module: d:\windows\system32\rpcrt4.dll. 
+Process d:\users\podus\desktop\repos\miet-mag-sem-2\application-programming-in-ips-system\home-task-3\variant-22\x64\release\variant-22.exe (PID = 19916) has terminated. 
+Application exit code: 0 
+Result file: D:\Users\podus\Desktop\repos\Miet-Mag-Sem-2\Application-programming-in-IPS-system\home-task-3\inspector\home-task-3\r001ti3\r001ti3.inspxe 
+Analysis completed
+=== End: [2021/06/04 14:06:28] === 

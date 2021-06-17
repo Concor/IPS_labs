@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+  <file name="D:\Users\podus\Desktop\repos\Miet-Mag-Sem-2\Application-programming-in-IPS-system\home-task-3\variant-22\main.cpp" md5="83fcba7511c0e3527839aee65e7bfe90">
+    <snippet line="93">
+      <line line="90">#pragma omp parallel for</line>
+      <line line="91">        for (int j = k + 1; j &lt; rows; ++j) {</line>
+      <line line="92">            result[k] -= matrix[k][j] * result[j];</line>
+      <line line="93">        }</line>
+      <line line="94">        result[k] /= matrix[k][k];</line>
+    </snippet>
+    <snippet line="137">
+      <line line="134">    double** matrix = new double* [MATRIX_SIZE];</line>
+      <line line="135">    InitMatrix(matrix);</line>
+      <line line="136">    double* result = new double[MATRIX_SIZE];</line>
+      <line line="137"/>
+      <line line="138">    chrono::duration&lt;double&gt; elapsed_time = ParallelGaussMethod(matrix, MATRIX_SIZE, result);</line>
+    </snippet>
+  </file>
+</snippets>
